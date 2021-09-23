@@ -6,18 +6,15 @@
 }
 
 .box {
-    flex: 1;
     background-color: chocolate;
+    flex: 1;
 }
 
 .box4 {
     background-color: cornflowerblue;
-    flex: 5;
-    display: flex;
-    flex-direction: column;
+    flex: 2;
 }
 
 .letter-box {
     background-color: hotpink;
-    flex: 1;
 }
